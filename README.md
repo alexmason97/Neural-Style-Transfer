@@ -87,5 +87,4 @@ SOFTWARE.
 
 ## Notebook Screenshots
 
-![notebook screenshot.jpg](Images/notebook screenshot.jpg)
-![Neural Style Transfer Example 2.png](https://raw.githubusercontent.com/alexmason97/Neural-Style-Transfer/main/Images/notebook%20screenshot.jpg)
+![notebook screenshot.jpg](https://raw.githubusercontent.com/alexmason97/Neural-Style-Transfer/main/Images/notebook%20screenshot.jpg)
