@@ -41,13 +41,13 @@ In this notebook, we use a picture of a ragdoll cat as our content image:
 
 And **Mendrisiotto with Church of Obino** by Hermann-Scherer:
 
-![style image.jfif](Images/style image.jfif)
+![stylized-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg/440px-Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg)
 
 after optimizing all of our weights, content and style layer and variation loss weights, we run our images through 10 epochs of 100 iterations each.
 
 The final result is the following:
 
-![stylized-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg/440px-Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg)
+![stylized-image](Images/stylized-image_nst11.png)
   
 ## License
 
