@@ -87,4 +87,4 @@ SOFTWARE.
 
 ## Notebook Screenshots
 
-![notebook screenshot.png](Images/notebook screenshot.png)
+![notebook screenshot.jpg](Images/notebook screenshot.jpg)
