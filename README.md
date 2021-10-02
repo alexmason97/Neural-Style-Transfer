@@ -20,7 +20,7 @@ The paper that this project is based off of is [A Neural Algorithm of Artistic S
 
 This project consists of using a convolutional neural network (CNN) and uses two different images to blend them together. Thus, creating an artistic style usinging one image as our content image and the other image to style the content image.
 
-We would get something similar to the result you see below: ![Neural Style Transfer Example 2.png]("Images/Neural Style Transfer Example 2.png")
+We would get something similar to the result you see below: ![Neural Style Transfer Example 2.png](Images/Neural Style Transfer Example 2.png)
 
 I had a lot of fun reading about VGG19 model architectures and the paper this project is based off of.
 
@@ -37,7 +37,7 @@ Thanks for reading and have a great day.
 
 In this notebook, we use a picture of a ragdoll cat as our content image:
 
-![content image.jfif](Images/content image.jfif)
+![content image](https://www.catsbest.de/wp-content/uploads/katze-mit-blauen-augen-450x450.jpg)
 
 And **Mendrisiotto with Church of Obino** by Hermann-Scherer:
 
@@ -47,7 +47,7 @@ after optimizing all of our weights, content and style layer and variation loss 
 
 The final result is the following:
 
-![stylized-image_nst11.png](Images/stylized-image_nst11.png)
+![stylized-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg/440px-Hermann_Scherer_-_Mendrisiotto_mit_Kirche_von_Obino.jpeg)
   
 ## License
 
