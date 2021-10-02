@@ -37,17 +37,17 @@ Thanks for reading and have a great day.
 
 In this notebook, we use a picture of a ragdoll cat as our content image:
 
-![content image.jfif]("Images/content image.jfif")
+![content image.jfif](Images/content image.jfif)
 
 And **Mendrisiotto with Church of Obino** by Hermann-Scherer:
 
-![style image.jfif]("Images/style image.jfif")
+![style image.jfif](Images/style image.jfif)
 
 after optimizing all of our weights, content and style layer and variation loss weights, we run our images through 10 epochs of 100 iterations each.
 
 The final result is the following:
 
-![stylized-image_nst11.png]("Images/stylized-image_nst11.png")
+![stylized-image_nst11.png](Images/stylized-image_nst11.png)
   
 ## License
 
@@ -88,4 +88,4 @@ SOFTWARE.
 
 ## Notebook Screenshots
 
-![notebook screenshot.PNG]("Images/notebook screenshot.PNG")
+![notebook screenshot.PNG](Images/notebook screenshot.PNG)
