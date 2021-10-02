@@ -32,7 +32,6 @@ Thanks for reading and have a great day.
 
 - [@alexmason97](https://github.com/alexmason97)
 
-  
 ## Example
 
 In this notebook, we use a picture of a ragdoll cat as our content image:
